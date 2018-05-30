@@ -4,3 +4,6 @@
 [submodule "shijing"]
 	path = shijing
 	url = git@github.com:TeamImagine/Shijing.git
+[submodule "tangshi"]
+	path = tangshi
+	url = git@github.com:TeamImagine/Tangshi.git

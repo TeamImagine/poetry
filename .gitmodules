@@ -1,0 +1,12 @@
+[submodule "chinese-poetry"]
+	path = chinese-poetry
+	url = https://github.com/chinese-poetry/chinese-poetry-zhCN
+[submodule "shijing"]
+	path = shijing
+	url = git@github.com:TeamImagine/Shijing.git
+[submodule "tangshi"]
+	path = tangshi
+	url = git@github.com:TeamImagine/Tangshi.git
+[submodule "songci"]
+	path = songci
+	url = git@github.com:TeamImagine/Song.git

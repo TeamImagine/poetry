@@ -7,3 +7,6 @@
 [submodule "tangshi"]
 	path = tangshi
 	url = git@github.com:TeamImagine/Tangshi.git
+[submodule "songci"]
+	path = songci
+	url = git@github.com:TeamImagine/Song.git
